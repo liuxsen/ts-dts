@@ -1,0 +1,15 @@
+{
+  "name": "ts-builder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "5.4.5"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
