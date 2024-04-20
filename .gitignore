@@ -1,0 +1,5 @@
+# 忽略node_modules
+node_modules
+
+# 不忽略dist/node_modules
+!dist/node_modules/
